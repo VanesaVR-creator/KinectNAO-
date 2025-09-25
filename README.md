@@ -31,24 +31,6 @@ Plataforma Choreographe
 
 📌 Objetivo del proyecto
 
-El objetivo principal es lograr una interacción natural entre humanos y robots, permitiendo que el NAO imite e interprete movimientos humanos capturados por el Kinect. Esto abre la posibilidad de aplicar el sistema en áreas como:
-
-Educación 🤓
-
-Rehabilitación física 🏃‍♂️
-
-Entretenimiento 🎮
-
-Robótica colaborativa ⚙️
-
-📂 Instalación y uso
-
-Conectar el sensor Kinect y asegurarse de que el Kinect SDK esté instalado.
-
-Ejecutar el programa en Python para iniciar la captura de movimientos.
-
-Conectar el robot NAO a la red local.
-
-Utilizar la plataforma Choreographe para recibir e interpretar las señales.
+El objetivo principal es lograr una interacción natural entre humanos y robots, permitiendo que el NAO imite e interprete movimientos humanos capturados por el Kinect. 
 
 Observar cómo el robot NAO reproduce los movimientos del usuario.
